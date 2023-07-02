@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/tg-web/static/css/main.431c217e.css",
     "main.js": "/tg-web/static/js/main.5edb376f.js",
     "index.html": "/tg-web/index.html",
+    "main.431c217e.css.map": "/tg-web/static/css/main.431c217e.css.map",
     "main.5edb376f.js.map": "/tg-web/static/js/main.5edb376f.js.map"
   },
   "entrypoints": [
+    "static/css/main.431c217e.css",
     "static/js/main.5edb376f.js"
   ]
 }
